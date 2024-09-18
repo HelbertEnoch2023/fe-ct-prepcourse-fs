@@ -1,0 +1,19 @@
+div {
+    background-color: burlywood;
+    width: 60px;
+    height: 60px;
+    margin: 35px;
+    text-align: center;
+    align-content: center;
+}
+
+#caja2 {
+    position: relative;
+    top : 10px
+
+}
+
+#caja3 {
+    background-color: rgb(151, 250, 250);
+    position: relative;
+}
